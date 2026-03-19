@@ -1,5 +1,5 @@
 {
-  "enableFeature": true,
-  "showAds": false,
-  "maintenance": false
+  "Radio": false,
+  "QuranRadio": false,
+  "Shaabyfm": false
 }
